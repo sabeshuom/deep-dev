@@ -1,8 +1,8 @@
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
-log_dir = "/home/sabesan/deep-tmv/dev/tutorial/log"
+log_dir = "/../../log/tutorial/t1_softmax"
+data_dir = "../../data/tutorial/mnist"
 
-data_dir = "/home/sabesan/deep-tmv/dev/tutorial/data/mnist"
 MAX_STEPS = 1000
 NO_OF_CLASSES = 10
 IMAGE_SIZE = 28

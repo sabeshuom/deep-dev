@@ -1,7 +1,7 @@
 from tensorflow.examples.tutorials.mnist import input_data
 
-log_dir = "/home/sabesan/deep-tmv/dev/tutorial/log"
-data_dir = "/home/sabesan/deep-tmv/dev/tutorial/data/mnist"
+log_dir = "../../log/tutorial/t1_cnn"
+data_dir = "../../data/tutorial/mnist"
 
 mnist = input_data.read_data_sets(data_dir, one_hot=True)
 

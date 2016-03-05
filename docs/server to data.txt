@@ -1,0 +1,15 @@
+ssh into sabesan@d1.ceeqapp.com
+
+curl localhost:9251/au_v6/_count
+access to the AU elasticsearch
+
+`curl localhost:9251/au_v6/trademark/499664`
+
+This will format it nicer:
+`curl localhost:9251/au_v6/trademark/499664 | python -m json.tool`
+to search for trademarks by a value in a field, you do this
+`curl localhost:9251/au_v6/_search/?q=field:value`(edited)
+
+The files are being copied at the moment to d1:/media/storage/media_new8000/AU
+at the moment /media/storage/media_new8000/
+the postgres tables are here: d1:/media/storage/pg_dumps/

@@ -2,8 +2,8 @@ import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
 import math
 
-log_dir = "/home/sabesan/deep-tmv/dev/tutorial/log"
-data_dir = "/home/sabesan/deep-tmv/dev/tutorial/data/mnist"
+log_dir = "../../log/tutorial/t1_fc1"
+data_dir = "../../data/tutorial/mnist"
 
 MAX_STEPS = 1000
 NO_OF_CLASSES = 10
