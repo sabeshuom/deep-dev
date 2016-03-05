@@ -1,0 +1,64 @@
+
+Setting to grub:
+-----------------------
+sudo gedit /etc/default/grub
+    2  sudo update-grub
+
+Install packagess if system setting has gone
+----------------------------------------------------
+sudo apt-get install libglew-dev libcheese7 libcheese-gtk23 libclutter-gst-2.0-0 libcogl15 libclutter-gtk-1.0-0 libclutter-1.0-0
+
+
+
+Network interface setting:
+-----------------------------
+ sudo nano /etc/network/interfaces
+
+
+network related commands:
+
+lspci | grep -i net
+ifconfig
+lspci
+lspci -v
+dpkg -I
+dpkg -l
+dpkg -l grep linux-generic
+dpkg -l grep linux-generic-lts-vivid 
+uname -a
+sudo modprobe e1000e
+
+ifconfig -a
+ifconfig
+sudo ifdown eth
+sudo ifup eth
+
+ppa installation for install and purge packages:
+-------------------
+sudo apt-get install ppa-purge 
+
+solution for missing system setting after Nvideo installation
+-----------------------------------------
+sudo add-apt-repository ppa:xorg-edgers/ppa && sudo apt-get update
+sudo ppa-purge  ppa:xorg-edgers/ppa && sudo apt-get update
+
+changing the hostname:
+--------------------------
+http://askubuntu.com/questions/87665/how-do-i-change-the-hostname-without-a-restart
+sudo hostname your-new-name
+/etc/hosts
+sudo -H gedit /etc/hostname
+hostnamectl set-hostname new-hostname
+
+remove the typed commands or passwords on the terminal
+------------------------------------------------------
+ctrl + u
+
+Install git:
+---------------
+apt-get install git
+
+
+
+
+
