@@ -1,0 +1,1885 @@
+[
+    {
+        "key": "27.05.01", 
+        "label": 0, 
+        "n_tain": 38346, 
+        "n_test": 12782, 
+        "n_validation": 12782
+    }, 
+    {
+        "key": "26.04.05", 
+        "label": 1, 
+        "n_tain": 24754, 
+        "n_test": 8251, 
+        "n_validation": 8253
+    }, 
+    {
+        "key": "26.04.02", 
+        "label": 2, 
+        "n_tain": 18781, 
+        "n_test": 6260, 
+        "n_validation": 6262
+    }, 
+    {
+        "key": "26.04.22", 
+        "label": 3, 
+        "n_tain": 16518, 
+        "n_test": 5506, 
+        "n_validation": 5507
+    }, 
+    {
+        "key": "26.01.03", 
+        "label": 4, 
+        "n_tain": 16449, 
+        "n_test": 5483, 
+        "n_validation": 5483
+    }, 
+    {
+        "key": "29.01.04", 
+        "label": 5, 
+        "n_tain": 16353, 
+        "n_test": 5451, 
+        "n_validation": 5451
+    }, 
+    {
+        "key": "27.05.21", 
+        "label": 6, 
+        "n_tain": 15277, 
+        "n_test": 5092, 
+        "n_validation": 5093
+    }, 
+    {
+        "key": "29.01.01", 
+        "label": 7, 
+        "n_tain": 14986, 
+        "n_test": 4995, 
+        "n_validation": 4996
+    }, 
+    {
+        "key": "26.04.01", 
+        "label": 8, 
+        "n_tain": 12123, 
+        "n_test": 4041, 
+        "n_validation": 4041
+    }, 
+    {
+        "key": "26.04.24", 
+        "label": 9, 
+        "n_tain": 10090, 
+        "n_test": 3363, 
+        "n_validation": 3364
+    }, 
+    {
+        "key": "29.01.08", 
+        "label": 10, 
+        "n_tain": 9177, 
+        "n_test": 3059, 
+        "n_validation": 3060
+    }, 
+    {
+        "key": "26.11.01", 
+        "label": 11, 
+        "n_tain": 8869, 
+        "n_test": 2956, 
+        "n_validation": 2958
+    }, 
+    {
+        "key": "29.01.03", 
+        "label": 12, 
+        "n_tain": 8671, 
+        "n_test": 2890, 
+        "n_validation": 2891
+    }, 
+    {
+        "key": "26.99.03", 
+        "label": 13, 
+        "n_tain": 8223, 
+        "n_test": 2741, 
+        "n_validation": 2742
+    }, 
+    {
+        "key": "25.05.99", 
+        "label": 14, 
+        "n_tain": 8127, 
+        "n_test": 2709, 
+        "n_validation": 2710
+    }, 
+    {
+        "key": "26.11.12", 
+        "label": 15, 
+        "n_tain": 7767, 
+        "n_test": 2589, 
+        "n_validation": 2589
+    }, 
+    {
+        "key": "27.05.22", 
+        "label": 16, 
+        "n_tain": 7722, 
+        "n_test": 2574, 
+        "n_validation": 2574
+    }, 
+    {
+        "key": "25.05.94", 
+        "label": 17, 
+        "n_tain": 7159, 
+        "n_test": 2386, 
+        "n_validation": 2388
+    }, 
+    {
+        "key": "26.04.18", 
+        "label": 18, 
+        "n_tain": 6934, 
+        "n_test": 2311, 
+        "n_validation": 2312
+    }, 
+    {
+        "key": "26.04.09", 
+        "label": 19, 
+        "n_tain": 6679, 
+        "n_test": 2226, 
+        "n_validation": 2228
+    }, 
+    {
+        "key": "29.01.96", 
+        "label": 20, 
+        "n_tain": 6321, 
+        "n_test": 2107, 
+        "n_validation": 2108
+    }, 
+    {
+        "key": "26.04.98", 
+        "label": 21, 
+        "n_tain": 5838, 
+        "n_test": 1946, 
+        "n_validation": 1946
+    }, 
+    {
+        "key": "26.11.06", 
+        "label": 22, 
+        "n_tain": 5673, 
+        "n_test": 1891, 
+        "n_validation": 1892
+    }, 
+    {
+        "key": "26.11.02", 
+        "label": 23, 
+        "n_tain": 5652, 
+        "n_test": 1884, 
+        "n_validation": 1885
+    }, 
+    {
+        "key": "27.03.15", 
+        "label": 24, 
+        "n_tain": 5563, 
+        "n_test": 1854, 
+        "n_validation": 1856
+    }, 
+    {
+        "key": "29.01.98", 
+        "label": 25, 
+        "n_tain": 5416, 
+        "n_test": 1805, 
+        "n_validation": 1806
+    }, 
+    {
+        "key": "29.01.06", 
+        "label": 26, 
+        "n_tain": 5373, 
+        "n_test": 1791, 
+        "n_validation": 1791
+    }, 
+    {
+        "key": "26.01.24", 
+        "label": 27, 
+        "n_tain": 5097, 
+        "n_test": 1699, 
+        "n_validation": 1700
+    }, 
+    {
+        "key": "26.11.08", 
+        "label": 28, 
+        "n_tain": 5022, 
+        "n_test": 1674, 
+        "n_validation": 1674
+    }, 
+    {
+        "key": "26.01.18", 
+        "label": 29, 
+        "n_tain": 4924, 
+        "n_test": 1641, 
+        "n_validation": 1643
+    }, 
+    {
+        "key": "29.01.02", 
+        "label": 30, 
+        "n_tain": 4911, 
+        "n_test": 1637, 
+        "n_validation": 1637
+    }, 
+    {
+        "key": "27.05.12", 
+        "label": 31, 
+        "n_tain": 4578, 
+        "n_test": 1526, 
+        "n_validation": 1527
+    }, 
+    {
+        "key": "05.03.13", 
+        "label": 32, 
+        "n_tain": 4414, 
+        "n_test": 1471, 
+        "n_validation": 1473
+    }, 
+    {
+        "key": "26.11.13", 
+        "label": 33, 
+        "n_tain": 4363, 
+        "n_test": 1454, 
+        "n_validation": 1456
+    }, 
+    {
+        "key": "01.01.02", 
+        "label": 34, 
+        "n_tain": 3935, 
+        "n_test": 1311, 
+        "n_validation": 1313
+    }, 
+    {
+        "key": "24.03.07", 
+        "label": 35, 
+        "n_tain": 3911, 
+        "n_test": 1303, 
+        "n_validation": 1305
+    }, 
+    {
+        "key": "27.99.19", 
+        "label": 36, 
+        "n_tain": 3863, 
+        "n_test": 1287, 
+        "n_validation": 1289
+    }, 
+    {
+        "key": "05.05.21", 
+        "label": 37, 
+        "n_tain": 3802, 
+        "n_test": 1267, 
+        "n_validation": 1269
+    }, 
+    {
+        "key": "05.05.20", 
+        "label": 38, 
+        "n_tain": 3772, 
+        "n_test": 1257, 
+        "n_validation": 1259
+    }, 
+    {
+        "key": "27.05.07", 
+        "label": 39, 
+        "n_tain": 3656, 
+        "n_test": 1218, 
+        "n_validation": 1220
+    }, 
+    {
+        "key": "26.04.99", 
+        "label": 40, 
+        "n_tain": 3643, 
+        "n_test": 1214, 
+        "n_validation": 1216
+    }, 
+    {
+        "key": "27.99.13", 
+        "label": 41, 
+        "n_tain": 3626, 
+        "n_test": 1208, 
+        "n_validation": 1210
+    }, 
+    {
+        "key": "26.11.98", 
+        "label": 42, 
+        "n_tain": 3592, 
+        "n_test": 1197, 
+        "n_validation": 1198
+    }, 
+    {
+        "key": "01.01.99", 
+        "label": 43, 
+        "n_tain": 3581, 
+        "n_test": 1193, 
+        "n_validation": 1195
+    }, 
+    {
+        "key": "26.03.01", 
+        "label": 44, 
+        "n_tain": 3540, 
+        "n_test": 1180, 
+        "n_validation": 1180
+    }, 
+    {
+        "key": "27.99.03", 
+        "label": 45, 
+        "n_tain": 3532, 
+        "n_test": 1177, 
+        "n_validation": 1178
+    }, 
+    {
+        "key": "02.09.01", 
+        "label": 46, 
+        "n_tain": 3387, 
+        "n_test": 1129, 
+        "n_validation": 1129
+    }, 
+    {
+        "key": "27.99.01", 
+        "label": 47, 
+        "n_tain": 3253, 
+        "n_test": 1084, 
+        "n_validation": 1086
+    }, 
+    {
+        "key": "25.05.95", 
+        "label": 48, 
+        "n_tain": 3208, 
+        "n_test": 1069, 
+        "n_validation": 1070
+    }, 
+    {
+        "key": "01.15.15", 
+        "label": 49, 
+        "n_tain": 3163, 
+        "n_test": 1054, 
+        "n_validation": 1055
+    }, 
+    {
+        "key": "26.04.04", 
+        "label": 50, 
+        "n_tain": 3150, 
+        "n_test": 1050, 
+        "n_validation": 1050
+    }, 
+    {
+        "key": "25.01.06", 
+        "label": 51, 
+        "n_tain": 3111, 
+        "n_test": 1037, 
+        "n_validation": 1037
+    }, 
+    {
+        "key": "24.15.01", 
+        "label": 52, 
+        "n_tain": 3108, 
+        "n_test": 1036, 
+        "n_validation": 1037
+    }, 
+    {
+        "key": "26.11.99", 
+        "label": 53, 
+        "n_tain": 3020, 
+        "n_test": 1006, 
+        "n_validation": 1008
+    }, 
+    {
+        "key": "25.01.94", 
+        "label": 54, 
+        "n_tain": 2971, 
+        "n_test": 990, 
+        "n_validation": 991
+    }, 
+    {
+        "key": "26.15.99", 
+        "label": 55, 
+        "n_tain": 2928, 
+        "n_test": 976, 
+        "n_validation": 977
+    }, 
+    {
+        "key": "26.04.03", 
+        "label": 56, 
+        "n_tain": 2844, 
+        "n_test": 948, 
+        "n_validation": 948
+    }, 
+    {
+        "key": "26.03.23", 
+        "label": 57, 
+        "n_tain": 2797, 
+        "n_test": 932, 
+        "n_validation": 933
+    }, 
+    {
+        "key": "26.04.10", 
+        "label": 58, 
+        "n_tain": 2775, 
+        "n_test": 925, 
+        "n_validation": 925
+    }, 
+    {
+        "key": "26.99.20", 
+        "label": 59, 
+        "n_tain": 2737, 
+        "n_test": 912, 
+        "n_validation": 913
+    }, 
+    {
+        "key": "28.03", 
+        "label": 60, 
+        "n_tain": 2734, 
+        "n_test": 911, 
+        "n_validation": 912
+    }, 
+    {
+        "key": "27.05.05", 
+        "label": 61, 
+        "n_tain": 2724, 
+        "n_test": 908, 
+        "n_validation": 908
+    }, 
+    {
+        "key": "27.99.02", 
+        "label": 62, 
+        "n_tain": 2698, 
+        "n_test": 899, 
+        "n_validation": 900
+    }, 
+    {
+        "key": "26.11.09", 
+        "label": 63, 
+        "n_tain": 2675, 
+        "n_test": 891, 
+        "n_validation": 893
+    }, 
+    {
+        "key": "26.13.25", 
+        "label": 64, 
+        "n_tain": 2675, 
+        "n_test": 891, 
+        "n_validation": 893
+    }, 
+    {
+        "key": "02.01.23", 
+        "label": 65, 
+        "n_tain": 2653, 
+        "n_test": 884, 
+        "n_validation": 886
+    }, 
+    {
+        "key": "05.03.14", 
+        "label": 66, 
+        "n_tain": 2632, 
+        "n_test": 877, 
+        "n_validation": 879
+    }, 
+    {
+        "key": "27.99.05", 
+        "label": 67, 
+        "n_tain": 2616, 
+        "n_test": 872, 
+        "n_validation": 872
+    }, 
+    {
+        "key": "27.99.16", 
+        "label": 68, 
+        "n_tain": 2570, 
+        "n_test": 856, 
+        "n_validation": 858
+    }, 
+    {
+        "key": "26.04.19", 
+        "label": 69, 
+        "n_tain": 2566, 
+        "n_test": 855, 
+        "n_validation": 856
+    }, 
+    {
+        "key": "26.04.07", 
+        "label": 70, 
+        "n_tain": 2565, 
+        "n_test": 855, 
+        "n_validation": 856
+    }, 
+    {
+        "key": "26.11.05", 
+        "label": 71, 
+        "n_tain": 2475, 
+        "n_test": 825, 
+        "n_validation": 825
+    }, 
+    {
+        "key": "26.01.19", 
+        "label": 72, 
+        "n_tain": 2467, 
+        "n_test": 822, 
+        "n_validation": 823
+    }, 
+    {
+        "key": "25.07.21", 
+        "label": 73, 
+        "n_tain": 2443, 
+        "n_test": 814, 
+        "n_validation": 816
+    }, 
+    {
+        "key": "27.99.20", 
+        "label": 74, 
+        "n_tain": 2438, 
+        "n_test": 812, 
+        "n_validation": 814
+    }, 
+    {
+        "key": "27.01.12", 
+        "label": 75, 
+        "n_tain": 2387, 
+        "n_test": 795, 
+        "n_validation": 797
+    }, 
+    {
+        "key": "27.05.14", 
+        "label": 76, 
+        "n_tain": 2370, 
+        "n_test": 790, 
+        "n_validation": 790
+    }, 
+    {
+        "key": "25.01.25", 
+        "label": 77, 
+        "n_tain": 2339, 
+        "n_test": 779, 
+        "n_validation": 781
+    }, 
+    {
+        "key": "27.99.07", 
+        "label": 78, 
+        "n_tain": 2338, 
+        "n_test": 779, 
+        "n_validation": 780
+    }, 
+    {
+        "key": "26.11.97", 
+        "label": 79, 
+        "n_tain": 2337, 
+        "n_test": 779, 
+        "n_validation": 779
+    }, 
+    {
+        "key": "27.03.02", 
+        "label": 80, 
+        "n_tain": 2230, 
+        "n_test": 743, 
+        "n_validation": 745
+    }, 
+    {
+        "key": "24.17.25", 
+        "label": 81, 
+        "n_tain": 2189, 
+        "n_test": 729, 
+        "n_validation": 731
+    }, 
+    {
+        "key": "26.07.04", 
+        "label": 82, 
+        "n_tain": 2117, 
+        "n_test": 705, 
+        "n_validation": 707
+    }, 
+    {
+        "key": "27.99.04", 
+        "label": 83, 
+        "n_tain": 2102, 
+        "n_test": 700, 
+        "n_validation": 702
+    }, 
+    {
+        "key": "02.01.01", 
+        "label": 84, 
+        "n_tain": 2064, 
+        "n_test": 688, 
+        "n_validation": 688
+    }, 
+    {
+        "key": "27.05.15", 
+        "label": 85, 
+        "n_tain": 2047, 
+        "n_test": 682, 
+        "n_validation": 683
+    }, 
+    {
+        "key": "05.03.15", 
+        "label": 86, 
+        "n_tain": 2041, 
+        "n_test": 680, 
+        "n_validation": 681
+    }, 
+    {
+        "key": "26.07.20", 
+        "label": 87, 
+        "n_tain": 2024, 
+        "n_test": 674, 
+        "n_validation": 676
+    }, 
+    {
+        "key": "27.99.18", 
+        "label": 88, 
+        "n_tain": 2004, 
+        "n_test": 668, 
+        "n_validation": 668
+    }, 
+    {
+        "key": "01.15.21", 
+        "label": 89, 
+        "n_tain": 2002, 
+        "n_test": 667, 
+        "n_validation": 668
+    }, 
+    {
+        "key": "25.03.03", 
+        "label": 90, 
+        "n_tain": 1999, 
+        "n_test": 666, 
+        "n_validation": 667
+    }, 
+    {
+        "key": "24.15.13", 
+        "label": 91, 
+        "n_tain": 1953, 
+        "n_test": 651, 
+        "n_validation": 652
+    }, 
+    {
+        "key": "26.11.07", 
+        "label": 92, 
+        "n_tain": 1946, 
+        "n_test": 648, 
+        "n_validation": 650
+    }, 
+    {
+        "key": "03.07.24", 
+        "label": 93, 
+        "n_tain": 1928, 
+        "n_test": 642, 
+        "n_validation": 644
+    }, 
+    {
+        "key": "26.99.24", 
+        "label": 94, 
+        "n_tain": 1913, 
+        "n_test": 637, 
+        "n_validation": 639
+    }, 
+    {
+        "key": "27.99.09", 
+        "label": 95, 
+        "n_tain": 1891, 
+        "n_test": 630, 
+        "n_validation": 632
+    }, 
+    {
+        "key": "26.04.06", 
+        "label": 96, 
+        "n_tain": 1872, 
+        "n_test": 624, 
+        "n_validation": 625
+    }, 
+    {
+        "key": "26.03.04", 
+        "label": 97, 
+        "n_tain": 1836, 
+        "n_test": 612, 
+        "n_validation": 612
+    }, 
+    {
+        "key": "27.07.01", 
+        "label": 98, 
+        "n_tain": 1830, 
+        "n_test": 610, 
+        "n_validation": 610
+    }, 
+    {
+        "key": "01.03.02", 
+        "label": 99, 
+        "n_tain": 1818, 
+        "n_test": 606, 
+        "n_validation": 606
+    }, 
+    {
+        "key": "26.05.01", 
+        "label": 100, 
+        "n_tain": 1817, 
+        "n_test": 605, 
+        "n_validation": 607
+    }, 
+    {
+        "key": "05.03.11", 
+        "label": 101, 
+        "n_tain": 1809, 
+        "n_test": 603, 
+        "n_validation": 604
+    }, 
+    {
+        "key": "07.01.24", 
+        "label": 102, 
+        "n_tain": 1802, 
+        "n_test": 600, 
+        "n_validation": 602
+    }, 
+    {
+        "key": "27.99.06", 
+        "label": 103, 
+        "n_tain": 1783, 
+        "n_test": 594, 
+        "n_validation": 595
+    }, 
+    {
+        "key": "27.03.12", 
+        "label": 104, 
+        "n_tain": 1773, 
+        "n_test": 591, 
+        "n_validation": 592
+    }, 
+    {
+        "key": "05.01.05", 
+        "label": 105, 
+        "n_tain": 1764, 
+        "n_test": 588, 
+        "n_validation": 588
+    }, 
+    {
+        "key": "01.05.02", 
+        "label": 106, 
+        "n_tain": 1714, 
+        "n_test": 571, 
+        "n_validation": 572
+    }, 
+    {
+        "key": "03.07.16", 
+        "label": 107, 
+        "n_tain": 1675, 
+        "n_test": 558, 
+        "n_validation": 559
+    }, 
+    {
+        "key": "26.01.99", 
+        "label": 108, 
+        "n_tain": 1648, 
+        "n_test": 549, 
+        "n_validation": 550
+    }, 
+    {
+        "key": "27.03.11", 
+        "label": 109, 
+        "n_tain": 1630, 
+        "n_test": 543, 
+        "n_validation": 544
+    }, 
+    {
+        "key": "26.03.24", 
+        "label": 110, 
+        "n_tain": 1627, 
+        "n_test": 542, 
+        "n_validation": 543
+    }, 
+    {
+        "key": "26.11.25", 
+        "label": 111, 
+        "n_tain": 1623, 
+        "n_test": 541, 
+        "n_validation": 542
+    }, 
+    {
+        "key": "27.99.22", 
+        "label": 112, 
+        "n_tain": 1621, 
+        "n_test": 540, 
+        "n_validation": 542
+    }, 
+    {
+        "key": "26.01.96", 
+        "label": 113, 
+        "n_tain": 1612, 
+        "n_test": 537, 
+        "n_validation": 539
+    }, 
+    {
+        "key": "27.99.08", 
+        "label": 114, 
+        "n_tain": 1611, 
+        "n_test": 537, 
+        "n_validation": 538
+    }, 
+    {
+        "key": "26.99.19", 
+        "label": 115, 
+        "n_tain": 1601, 
+        "n_test": 533, 
+        "n_validation": 535
+    }, 
+    {
+        "key": "03.01.08", 
+        "label": 116, 
+        "n_tain": 1589, 
+        "n_test": 529, 
+        "n_validation": 531
+    }, 
+    {
+        "key": "26.01.04", 
+        "label": 117, 
+        "n_tain": 1587, 
+        "n_test": 529, 
+        "n_validation": 529
+    }, 
+    {
+        "key": "01.13.01", 
+        "label": 118, 
+        "n_tain": 1578, 
+        "n_test": 526, 
+        "n_validation": 527
+    }, 
+    {
+        "key": "26.01.05", 
+        "label": 119, 
+        "n_tain": 1576, 
+        "n_test": 525, 
+        "n_validation": 527
+    }, 
+    {
+        "key": "27.99.12", 
+        "label": 120, 
+        "n_tain": 1567, 
+        "n_test": 522, 
+        "n_validation": 524
+    }, 
+    {
+        "key": "01.15.09", 
+        "label": 121, 
+        "n_tain": 1566, 
+        "n_test": 522, 
+        "n_validation": 523
+    }, 
+    {
+        "key": "25.05.01", 
+        "label": 122, 
+        "n_tain": 1547, 
+        "n_test": 515, 
+        "n_validation": 517
+    }, 
+    {
+        "key": "02.01.16", 
+        "label": 123, 
+        "n_tain": 1542, 
+        "n_test": 514, 
+        "n_validation": 515
+    }, 
+    {
+        "key": "01.05.01", 
+        "label": 124, 
+        "n_tain": 1534, 
+        "n_test": 511, 
+        "n_validation": 513
+    }, 
+    {
+        "key": "25.05.25", 
+        "label": 125, 
+        "n_tain": 1521, 
+        "n_test": 507, 
+        "n_validation": 507
+    }, 
+    {
+        "key": "29.01.99", 
+        "label": 126, 
+        "n_tain": 1518, 
+        "n_test": 506, 
+        "n_validation": 506
+    }, 
+    {
+        "key": "26.99.18", 
+        "label": 127, 
+        "n_tain": 1512, 
+        "n_test": 504, 
+        "n_validation": 505
+    }, 
+    {
+        "key": "27.99.11", 
+        "label": 128, 
+        "n_tain": 1459, 
+        "n_test": 486, 
+        "n_validation": 488
+    }, 
+    {
+        "key": "29.01.05", 
+        "label": 129, 
+        "n_tain": 1459, 
+        "n_test": 486, 
+        "n_validation": 488
+    }, 
+    {
+        "key": "24.09.02", 
+        "label": 130, 
+        "n_tain": 1449, 
+        "n_test": 483, 
+        "n_validation": 484
+    }, 
+    {
+        "key": "02.01.95", 
+        "label": 131, 
+        "n_tain": 1419, 
+        "n_test": 473, 
+        "n_validation": 474
+    }, 
+    {
+        "key": "03.01.16", 
+        "label": 132, 
+        "n_tain": 1418, 
+        "n_test": 472, 
+        "n_validation": 474
+    }, 
+    {
+        "key": "01.01.05", 
+        "label": 133, 
+        "n_tain": 1412, 
+        "n_test": 470, 
+        "n_validation": 472
+    }, 
+    {
+        "key": "24.15.02", 
+        "label": 134, 
+        "n_tain": 1408, 
+        "n_test": 469, 
+        "n_validation": 470
+    }, 
+    {
+        "key": "24.17.07", 
+        "label": 135, 
+        "n_tain": 1372, 
+        "n_test": 457, 
+        "n_validation": 459
+    }, 
+    {
+        "key": "01.15.11", 
+        "label": 136, 
+        "n_tain": 1364, 
+        "n_test": 454, 
+        "n_validation": 456
+    }, 
+    {
+        "key": "03.01.24", 
+        "label": 137, 
+        "n_tain": 1360, 
+        "n_test": 453, 
+        "n_validation": 455
+    }, 
+    {
+        "key": "01.15.05", 
+        "label": 138, 
+        "n_tain": 1345, 
+        "n_test": 448, 
+        "n_validation": 450
+    }, 
+    {
+        "key": "26.99.22", 
+        "label": 139, 
+        "n_tain": 1345, 
+        "n_test": 448, 
+        "n_validation": 449
+    }, 
+    {
+        "key": "27.05.25", 
+        "label": 140, 
+        "n_tain": 1337, 
+        "n_test": 445, 
+        "n_validation": 447
+    }, 
+    {
+        "key": "05.05.19", 
+        "label": 141, 
+        "n_tain": 1324, 
+        "n_test": 441, 
+        "n_validation": 443
+    }, 
+    {
+        "key": "26.07.05", 
+        "label": 142, 
+        "n_tain": 1309, 
+        "n_test": 436, 
+        "n_validation": 437
+    }, 
+    {
+        "key": "25.05.02", 
+        "label": 143, 
+        "n_tain": 1309, 
+        "n_test": 436, 
+        "n_validation": 437
+    }, 
+    {
+        "key": "24.03.18", 
+        "label": 144, 
+        "n_tain": 1301, 
+        "n_test": 433, 
+        "n_validation": 435
+    }, 
+    {
+        "key": "27.99.23", 
+        "label": 145, 
+        "n_tain": 1273, 
+        "n_test": 424, 
+        "n_validation": 425
+    }, 
+    {
+        "key": "05.07.02", 
+        "label": 146, 
+        "n_tain": 1268, 
+        "n_test": 422, 
+        "n_validation": 424
+    }, 
+    {
+        "key": "26.01.22", 
+        "label": 147, 
+        "n_tain": 1258, 
+        "n_test": 419, 
+        "n_validation": 420
+    }, 
+    {
+        "key": "24.01.15", 
+        "label": 148, 
+        "n_tain": 1257, 
+        "n_test": 419, 
+        "n_validation": 419
+    }, 
+    {
+        "key": "02.01.97", 
+        "label": 149, 
+        "n_tain": 1243, 
+        "n_test": 414, 
+        "n_validation": 416
+    }, 
+    {
+        "key": "27.99.14", 
+        "label": 150, 
+        "n_tain": 1234, 
+        "n_test": 411, 
+        "n_validation": 412
+    }, 
+    {
+        "key": "24.07.01", 
+        "label": 151, 
+        "n_tain": 1231, 
+        "n_test": 410, 
+        "n_validation": 412
+    }, 
+    {
+        "key": "02.09.04", 
+        "label": 152, 
+        "n_tain": 1219, 
+        "n_test": 406, 
+        "n_validation": 408
+    }, 
+    {
+        "key": "24.17.01", 
+        "label": 153, 
+        "n_tain": 1212, 
+        "n_test": 404, 
+        "n_validation": 405
+    }, 
+    {
+        "key": "24.17.97", 
+        "label": 154, 
+        "n_tain": 1204, 
+        "n_test": 401, 
+        "n_validation": 403
+    }, 
+    {
+        "key": "24.13.01", 
+        "label": 155, 
+        "n_tain": 1200, 
+        "n_test": 400, 
+        "n_validation": 401
+    }, 
+    {
+        "key": "24.17.02", 
+        "label": 156, 
+        "n_tain": 1200, 
+        "n_test": 400, 
+        "n_validation": 401
+    }, 
+    {
+        "key": "26.13.99", 
+        "label": 157, 
+        "n_tain": 1192, 
+        "n_test": 397, 
+        "n_validation": 398
+    }, 
+    {
+        "key": "02.01.08", 
+        "label": 158, 
+        "n_tain": 1175, 
+        "n_test": 391, 
+        "n_validation": 393
+    }, 
+    {
+        "key": "25.07.06", 
+        "label": 159, 
+        "n_tain": 1162, 
+        "n_test": 387, 
+        "n_validation": 388
+    }, 
+    {
+        "key": "05.01.16", 
+        "label": 160, 
+        "n_tain": 1143, 
+        "n_test": 381, 
+        "n_validation": 382
+    }, 
+    {
+        "key": "03.07.17", 
+        "label": 161, 
+        "n_tain": 1132, 
+        "n_test": 377, 
+        "n_validation": 378
+    }, 
+    {
+        "key": "24.15.08", 
+        "label": 162, 
+        "n_tain": 1131, 
+        "n_test": 377, 
+        "n_validation": 377
+    }, 
+    {
+        "key": "25.07.03", 
+        "label": 163, 
+        "n_tain": 1130, 
+        "n_test": 376, 
+        "n_validation": 378
+    }, 
+    {
+        "key": "26.11.22", 
+        "label": 164, 
+        "n_tain": 1114, 
+        "n_test": 371, 
+        "n_validation": 373
+    }, 
+    {
+        "key": "25.01.19", 
+        "label": 165, 
+        "n_tain": 1113, 
+        "n_test": 371, 
+        "n_validation": 372
+    }, 
+    {
+        "key": "27.99.15", 
+        "label": 166, 
+        "n_tain": 1088, 
+        "n_test": 362, 
+        "n_validation": 364
+    }, 
+    {
+        "key": "24.17.09", 
+        "label": 167, 
+        "n_tain": 1088, 
+        "n_test": 362, 
+        "n_validation": 364
+    }, 
+    {
+        "key": "26.01.20", 
+        "label": 168, 
+        "n_tain": 1074, 
+        "n_test": 358, 
+        "n_validation": 359
+    }, 
+    {
+        "key": "02.01.24", 
+        "label": 169, 
+        "n_tain": 1060, 
+        "n_test": 353, 
+        "n_validation": 354
+    }, 
+    {
+        "key": "26.03.05", 
+        "label": 170, 
+        "n_tain": 1059, 
+        "n_test": 353, 
+        "n_validation": 354
+    }, 
+    {
+        "key": "29.01.07", 
+        "label": 171, 
+        "n_tain": 1051, 
+        "n_test": 350, 
+        "n_validation": 351
+    }, 
+    {
+        "key": "25.07.20", 
+        "label": 172, 
+        "n_tain": 1048, 
+        "n_test": 349, 
+        "n_validation": 351
+    }, 
+    {
+        "key": "26.04.08", 
+        "label": 173, 
+        "n_tain": 1042, 
+        "n_test": 347, 
+        "n_validation": 349
+    }, 
+    {
+        "key": "15.01.13", 
+        "label": 174, 
+        "n_tain": 1033, 
+        "n_test": 344, 
+        "n_validation": 345
+    }, 
+    {
+        "key": "26.15.09", 
+        "label": 175, 
+        "n_tain": 1018, 
+        "n_test": 339, 
+        "n_validation": 341
+    }, 
+    {
+        "key": "27.03.03", 
+        "label": 176, 
+        "n_tain": 1017, 
+        "n_test": 339, 
+        "n_validation": 339
+    }, 
+    {
+        "key": "24.17.17", 
+        "label": 177, 
+        "n_tain": 1014, 
+        "n_test": 338, 
+        "n_validation": 339
+    }, 
+    {
+        "key": "26.03.06", 
+        "label": 178, 
+        "n_tain": 1005, 
+        "n_test": 335, 
+        "n_validation": 335
+    }, 
+    {
+        "key": "24.01.03", 
+        "label": 179, 
+        "n_tain": 1004, 
+        "n_test": 334, 
+        "n_validation": 336
+    }, 
+    {
+        "key": "25.01.97", 
+        "label": 180, 
+        "n_tain": 990, 
+        "n_test": 330, 
+        "n_validation": 330
+    }, 
+    {
+        "key": "26.15.97", 
+        "label": 181, 
+        "n_tain": 980, 
+        "n_test": 326, 
+        "n_validation": 328
+    }, 
+    {
+        "key": "01.15.23", 
+        "label": 182, 
+        "n_tain": 976, 
+        "n_test": 325, 
+        "n_validation": 326
+    }, 
+    {
+        "key": "26.01.98", 
+        "label": 183, 
+        "n_tain": 968, 
+        "n_test": 322, 
+        "n_validation": 324
+    }, 
+    {
+        "key": "01.05.06", 
+        "label": 184, 
+        "n_tain": 957, 
+        "n_test": 319, 
+        "n_validation": 319
+    }, 
+    {
+        "key": "24.01.18", 
+        "label": 185, 
+        "n_tain": 955, 
+        "n_test": 318, 
+        "n_validation": 319
+    }, 
+    {
+        "key": "24.09.01", 
+        "label": 186, 
+        "n_tain": 953, 
+        "n_test": 317, 
+        "n_validation": 319
+    }, 
+    {
+        "key": "02.09.14", 
+        "label": 187, 
+        "n_tain": 945, 
+        "n_test": 315, 
+        "n_validation": 315
+    }, 
+    {
+        "key": "24.01.05", 
+        "label": 188, 
+        "n_tain": 940, 
+        "n_test": 313, 
+        "n_validation": 315
+    }, 
+    {
+        "key": "03.03.01", 
+        "label": 189, 
+        "n_tain": 940, 
+        "n_test": 313, 
+        "n_validation": 315
+    }, 
+    {
+        "key": "24.17.04", 
+        "label": 190, 
+        "n_tain": 935, 
+        "n_test": 311, 
+        "n_validation": 313
+    }, 
+    {
+        "key": "26.04.17", 
+        "label": 191, 
+        "n_tain": 933, 
+        "n_test": 311, 
+        "n_validation": 312
+    }, 
+    {
+        "key": "26.04.11", 
+        "label": 192, 
+        "n_tain": 930, 
+        "n_test": 310, 
+        "n_validation": 310
+    }, 
+    {
+        "key": "25.01.91", 
+        "label": 193, 
+        "n_tain": 918, 
+        "n_test": 306, 
+        "n_validation": 307
+    }, 
+    {
+        "key": "20.05.07", 
+        "label": 194, 
+        "n_tain": 916, 
+        "n_test": 305, 
+        "n_validation": 307
+    }, 
+    {
+        "key": "24.01.20", 
+        "label": 195, 
+        "n_tain": 912, 
+        "n_test": 304, 
+        "n_validation": 305
+    }, 
+    {
+        "key": "24.15.03", 
+        "label": 196, 
+        "n_tain": 910, 
+        "n_test": 303, 
+        "n_validation": 305
+    }, 
+    {
+        "key": "24.09.16", 
+        "label": 197, 
+        "n_tain": 910, 
+        "n_test": 303, 
+        "n_validation": 304
+    }, 
+    {
+        "key": "03.09.24", 
+        "label": 198, 
+        "n_tain": 905, 
+        "n_test": 301, 
+        "n_validation": 303
+    }, 
+    {
+        "key": "03.13.01", 
+        "label": 199, 
+        "n_tain": 903, 
+        "n_test": 301, 
+        "n_validation": 302
+    }, 
+    {
+        "key": "26.01.97", 
+        "label": 200, 
+        "n_tain": 903, 
+        "n_test": 301, 
+        "n_validation": 301
+    }, 
+    {
+        "key": "28.01", 
+        "label": 201, 
+        "n_tain": 891, 
+        "n_test": 297, 
+        "n_validation": 297
+    }, 
+    {
+        "key": "25.03.99", 
+        "label": 202, 
+        "n_tain": 887, 
+        "n_test": 295, 
+        "n_validation": 297
+    }, 
+    {
+        "key": "02.03.01", 
+        "label": 203, 
+        "n_tain": 869, 
+        "n_test": 289, 
+        "n_validation": 291
+    }, 
+    {
+        "key": "24.15.21", 
+        "label": 204, 
+        "n_tain": 868, 
+        "n_test": 289, 
+        "n_validation": 291
+    }, 
+    {
+        "key": "24.07.23", 
+        "label": 205, 
+        "n_tain": 867, 
+        "n_test": 289, 
+        "n_validation": 290
+    }, 
+    {
+        "key": "06.01.04", 
+        "label": 206, 
+        "n_tain": 866, 
+        "n_test": 288, 
+        "n_validation": 290
+    }, 
+    {
+        "key": "01.05.24", 
+        "label": 207, 
+        "n_tain": 864, 
+        "n_test": 288, 
+        "n_validation": 288
+    }, 
+    {
+        "key": "01.03.15", 
+        "label": 208, 
+        "n_tain": 864, 
+        "n_test": 288, 
+        "n_validation": 288
+    }, 
+    {
+        "key": "25.01.05", 
+        "label": 209, 
+        "n_tain": 859, 
+        "n_test": 286, 
+        "n_validation": 287
+    }, 
+    {
+        "key": "01.03.01", 
+        "label": 210, 
+        "n_tain": 841, 
+        "n_test": 280, 
+        "n_validation": 281
+    }, 
+    {
+        "key": "01.15.24", 
+        "label": 211, 
+        "n_tain": 841, 
+        "n_test": 280, 
+        "n_validation": 281
+    }, 
+    {
+        "key": "26.11.14", 
+        "label": 212, 
+        "n_tain": 818, 
+        "n_test": 272, 
+        "n_validation": 274
+    }, 
+    {
+        "key": "04.05.02", 
+        "label": 213, 
+        "n_tain": 817, 
+        "n_test": 272, 
+        "n_validation": 273
+    }, 
+    {
+        "key": "01.11.08", 
+        "label": 214, 
+        "n_tain": 793, 
+        "n_test": 264, 
+        "n_validation": 265
+    }, 
+    {
+        "key": "03.09.10", 
+        "label": 215, 
+        "n_tain": 792, 
+        "n_test": 264, 
+        "n_validation": 265
+    }, 
+    {
+        "key": "25.12.03", 
+        "label": 216, 
+        "n_tain": 788, 
+        "n_test": 262, 
+        "n_validation": 264
+    }, 
+    {
+        "key": "05.07.23", 
+        "label": 217, 
+        "n_tain": 787, 
+        "n_test": 262, 
+        "n_validation": 263
+    }, 
+    {
+        "key": "03.07.01", 
+        "label": 218, 
+        "n_tain": 787, 
+        "n_test": 262, 
+        "n_validation": 263
+    }, 
+    {
+        "key": "21.03.21", 
+        "label": 219, 
+        "n_tain": 781, 
+        "n_test": 260, 
+        "n_validation": 262
+    }, 
+    {
+        "key": "26.99.06", 
+        "label": 220, 
+        "n_tain": 773, 
+        "n_test": 257, 
+        "n_validation": 259
+    }, 
+    {
+        "key": "24.03.08", 
+        "label": 221, 
+        "n_tain": 773, 
+        "n_test": 257, 
+        "n_validation": 259
+    }, 
+    {
+        "key": "27.01.06", 
+        "label": 222, 
+        "n_tain": 769, 
+        "n_test": 256, 
+        "n_validation": 258
+    }, 
+    {
+        "key": "24.17.20", 
+        "label": 223, 
+        "n_tain": 761, 
+        "n_test": 253, 
+        "n_validation": 255
+    }, 
+    {
+        "key": "27.99.24", 
+        "label": 224, 
+        "n_tain": 756, 
+        "n_test": 252, 
+        "n_validation": 253
+    }, 
+    {
+        "key": "05.03.20", 
+        "label": 225, 
+        "n_tain": 750, 
+        "n_test": 250, 
+        "n_validation": 250
+    }, 
+    {
+        "key": "25.03.25", 
+        "label": 226, 
+        "n_tain": 749, 
+        "n_test": 249, 
+        "n_validation": 251
+    }, 
+    {
+        "key": "03.01.02", 
+        "label": 227, 
+        "n_tain": 743, 
+        "n_test": 247, 
+        "n_validation": 249
+    }, 
+    {
+        "key": "03.04.24", 
+        "label": 228, 
+        "n_tain": 742, 
+        "n_test": 247, 
+        "n_validation": 248
+    }, 
+    {
+        "key": "03.13.24", 
+        "label": 229, 
+        "n_tain": 741, 
+        "n_test": 247, 
+        "n_validation": 248
+    }, 
+    {
+        "key": "01.15.03", 
+        "label": 230, 
+        "n_tain": 741, 
+        "n_test": 247, 
+        "n_validation": 247
+    }, 
+    {
+        "key": "25.07.25", 
+        "label": 231, 
+        "n_tain": 733, 
+        "n_test": 244, 
+        "n_validation": 245
+    }, 
+    {
+        "key": "28.07", 
+        "label": 232, 
+        "n_tain": 731, 
+        "n_test": 243, 
+        "n_validation": 245
+    }, 
+    {
+        "key": "24.03.02", 
+        "label": 233, 
+        "n_tain": 730, 
+        "n_test": 243, 
+        "n_validation": 245
+    }, 
+    {
+        "key": "01.01.10", 
+        "label": 234, 
+        "n_tain": 730, 
+        "n_test": 243, 
+        "n_validation": 244
+    }, 
+    {
+        "key": "04.05.05", 
+        "label": 235, 
+        "n_tain": 728, 
+        "n_test": 242, 
+        "n_validation": 244
+    }, 
+    {
+        "key": "25.01.09", 
+        "label": 236, 
+        "n_tain": 722, 
+        "n_test": 240, 
+        "n_validation": 242
+    }, 
+    {
+        "key": "27.99.10", 
+        "label": 237, 
+        "n_tain": 712, 
+        "n_test": 237, 
+        "n_validation": 239
+    }, 
+    {
+        "key": "06.01.02", 
+        "label": 238, 
+        "n_tain": 712, 
+        "n_test": 237, 
+        "n_validation": 239
+    }, 
+    {
+        "key": "15.07.01", 
+        "label": 239, 
+        "n_tain": 711, 
+        "n_test": 237, 
+        "n_validation": 238
+    }, 
+    {
+        "key": "27.99.17", 
+        "label": 240, 
+        "n_tain": 711, 
+        "n_test": 237, 
+        "n_validation": 238
+    }, 
+    {
+        "key": "02.01.96", 
+        "label": 241, 
+        "n_tain": 711, 
+        "n_test": 237, 
+        "n_validation": 237
+    }, 
+    {
+        "key": "24.09.07", 
+        "label": 242, 
+        "n_tain": 702, 
+        "n_test": 234, 
+        "n_validation": 235
+    }, 
+    {
+        "key": "02.01.04", 
+        "label": 243, 
+        "n_tain": 694, 
+        "n_test": 231, 
+        "n_validation": 232
+    }, 
+    {
+        "key": "20.05.25", 
+        "label": 244, 
+        "n_tain": 690, 
+        "n_test": 230, 
+        "n_validation": 231
+    }, 
+    {
+        "key": "05.13.25", 
+        "label": 245, 
+        "n_tain": 687, 
+        "n_test": 229, 
+        "n_validation": 229
+    }, 
+    {
+        "key": "01.01.12", 
+        "label": 246, 
+        "n_tain": 681, 
+        "n_test": 227, 
+        "n_validation": 228
+    }, 
+    {
+        "key": "26.99.04", 
+        "label": 247, 
+        "n_tain": 677, 
+        "n_test": 225, 
+        "n_validation": 227
+    }, 
+    {
+        "key": "01.01.09", 
+        "label": 248, 
+        "n_tain": 673, 
+        "n_test": 224, 
+        "n_validation": 225
+    }, 
+    {
+        "key": "26.03.07", 
+        "label": 249, 
+        "n_tain": 670, 
+        "n_test": 223, 
+        "n_validation": 225
+    }, 
+    {
+        "key": "27.05.19", 
+        "label": 250, 
+        "n_tain": 669, 
+        "n_test": 223, 
+        "n_validation": 223
+    }, 
+    {
+        "key": "03.01.14", 
+        "label": 251, 
+        "n_tain": 664, 
+        "n_test": 221, 
+        "n_validation": 222
+    }, 
+    {
+        "key": "07.01.01", 
+        "label": 252, 
+        "n_tain": 660, 
+        "n_test": 220, 
+        "n_validation": 220
+    }, 
+    {
+        "key": "03.01.06", 
+        "label": 253, 
+        "n_tain": 658, 
+        "n_test": 219, 
+        "n_validation": 221
+    }, 
+    {
+        "key": "26.07.15", 
+        "label": 254, 
+        "n_tain": 655, 
+        "n_test": 218, 
+        "n_validation": 220
+    }, 
+    {
+        "key": "25.07.07", 
+        "label": 255, 
+        "n_tain": 655, 
+        "n_test": 218, 
+        "n_validation": 220
+    }, 
+    {
+        "key": "05.13.04", 
+        "label": 256, 
+        "n_tain": 652, 
+        "n_test": 217, 
+        "n_validation": 218
+    }, 
+    {
+        "key": "02.09.25", 
+        "label": 257, 
+        "n_tain": 643, 
+        "n_test": 214, 
+        "n_validation": 215
+    }, 
+    {
+        "key": "01.03.17", 
+        "label": 258, 
+        "n_tain": 642, 
+        "n_test": 214, 
+        "n_validation": 214
+    }, 
+    {
+        "key": "25.01.96", 
+        "label": 259, 
+        "n_tain": 642, 
+        "n_test": 214, 
+        "n_validation": 214
+    }, 
+    {
+        "key": "26.07.18", 
+        "label": 260, 
+        "n_tain": 638, 
+        "n_test": 212, 
+        "n_validation": 214
+    }, 
+    {
+        "key": "26.11.21", 
+        "label": 261, 
+        "n_tain": 628, 
+        "n_test": 209, 
+        "n_validation": 210
+    }, 
+    {
+        "key": "29.01.97", 
+        "label": 262, 
+        "n_tain": 627, 
+        "n_test": 209, 
+        "n_validation": 210
+    }, 
+    {
+        "key": "02.03.16", 
+        "label": 263, 
+        "n_tain": 625, 
+        "n_test": 208, 
+        "n_validation": 210
+    }, 
+    {
+        "key": "27.99.21", 
+        "label": 264, 
+        "n_tain": 618, 
+        "n_test": 206, 
+        "n_validation": 206
+    }, 
+    {
+        "key": "24.15.11", 
+        "label": 265, 
+        "n_tain": 615, 
+        "n_test": 205, 
+        "n_validation": 205
+    }, 
+    {
+        "key": "05.05.22", 
+        "label": 266, 
+        "n_tain": 613, 
+        "n_test": 204, 
+        "n_validation": 205
+    }, 
+    {
+        "key": "03.01.01", 
+        "label": 267, 
+        "n_tain": 612, 
+        "n_test": 204, 
+        "n_validation": 205
+    }, 
+    {
+        "key": "03.04.13", 
+        "label": 268, 
+        "n_tain": 606, 
+        "n_test": 202, 
+        "n_validation": 202
+    }
+]
